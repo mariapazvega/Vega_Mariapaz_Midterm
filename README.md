@@ -11,7 +11,7 @@
 ## To clone this project:
 
  1. Copy the link of this repository
- 2. In the terminal, insert where you want the repository to be with:
+ 2. In the terminal, insert where you want the repository to be:
     ```
     cd 
     ```
